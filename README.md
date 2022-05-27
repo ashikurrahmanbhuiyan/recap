@@ -1,7 +1,7 @@
 # Assignment 0: Markdown
 ## You have to write markdown
 
-### Some Math Equation</h3>
+### Some Math Equation
 <div align = "center">
      <p>First equation: <b>Y</b>=<b>X</b>$\beta$+$\epsilon$<sub>y</sub>, $\forall$<b>X</b></p>
      <p>Second equation: <b>X</b>=<b>Z</b>γ+$\epsilon$<sub>x</sub></p>
@@ -54,7 +54,8 @@ right, or on both side of the hyphens within the header row.</p>
             <td>And more</td>
         </tr>
     </table>
-<h1>Instructions</h1>
+    
+# Instructions
 
 <p>6.S191 software labs are designed to be completed at your own pace. At the end of each<br>
 of the labs, there will be instructions on how you can submit your notebook for grade.<br>
@@ -62,7 +63,7 @@ Additionally, if you would like to submit your lab as part of the 6.S191 lab com
 instructions regarding what information must be submitted is also provided at the end of<br>
 each lab.</p>
 
-<h1>License</h1>
+# License
 
 <p>All code in this repository is copyright 2022 <a href = "http://introtodeeplearning.com">MIT 6.S191 Introduction to Deep Learning.</a> All<br>
 Rights Reserved.<br>
@@ -70,6 +71,6 @@ Rights Reserved.<br>
 Licensed under the MIT License. You may not use this file except in compliance with the<br>
 License. Use and/or modification of this code outside of 6.S191 must reference:</p>
 
- > © MIT 6.S191: Introduction to Deep Learning
+ > &copy; MIT 6.S191: Introduction to Deep Learning
  >
  > <a href="http://introtodeeplearning.com">http://introtodeeplearning.com</a>
