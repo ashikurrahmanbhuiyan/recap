@@ -5,7 +5,7 @@
 <div align = "center">
      <p>First equation: <b>Y</b>=<b>X</b>β+ϵ<sub>y</sub>, ∀<b>X</b></p>
      <p>Second equation: <b>X</b>=<b>Z</b>γ+ε<sub>x</sub></p>
-     <p>f<sub>1</sub>(ω)=σ<sup>2</sup>/2π, ω∈[−π,π]</p>
+     <p>f<sub>1</sub>(ω)=$\frac{σ2}{2π}$, ω∈[−π,π]</p>
 </div>
 <ol type="1">
     <li>First item a. first sub-item A) first sub-sub-item b. second sub-item</li>
