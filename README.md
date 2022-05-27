@@ -1,11 +1,11 @@
-<h1>Assignment 0: Markdown</h1>
-<h3>You have to write markdown</h2><hr>
+# Assignment 0: Markdown
+## You have to write markdown
 
-<h3>Some Math Equation</h3>
+### Some Math Equation</h3>
 <div align = "center">
-     <p>First equation: <b>Y</b>=<b>X</b>β+ϵ<sub>y</sub>, ∀<b>X</b></p>
-     <p>Second equation: <b>X</b>=<b>Z</b>γ+ε<sub>x</sub></p>
-     <p>f<sub>1</sub>(ω)=$\frac{σ2}{2π}$, ω∈[−π,π]</p>
+     <p>First equation: <b>Y</b>=<b>X</b>$\beta$+$\epsilon$<sub>y</sub>, $\forall$<b>X</b></p>
+     <p>Second equation: <b>X</b>=<b>Z</b>γ+$\epsilon$<sub>x</sub></p>
+     <p>f<sub>1</sub>($\omega)=\frac{\sigma^2}{2\pi}, \epsilon[−\pi,\pi]$</p>
 </div>
 <ol type="1">
     <li>First item a. first sub-item A) first sub-sub-item b. second sub-item</li>
@@ -64,13 +64,12 @@ each lab.</p>
 
 <h1>License</h1>
 
-<p>All code in this repository is copyright 2022 MIT 6.S191 Introduction to Deep Learning. All<br>
+<p>All code in this repository is copyright 2022 <a href = "http://introtodeeplearning.com">MIT 6.S191 Introduction to Deep Learning.</a> All<br>
 Rights Reserved.<br>
 <br>
 Licensed under the MIT License. You may not use this file except in compliance with the<br>
 License. Use and/or modification of this code outside of 6.S191 must reference:</p>
-<div style="border-left: 5px solid gray;height: 65px;">
-    <div style="padding-left: 10px;"><p style="color:gray">© MIT 6.S191: Introduction to Deep Learning</p>
-    <a href="http://introtodeeplearning.com">http://introtodeeplearning.com</a>
-    </div></div>
 
+ > © MIT 6.S191: Introduction to Deep Learning
+ >
+ > <a href="http://introtodeeplearning.com">http://introtodeeplearning.com</a>
